@@ -1,4 +1,7 @@
 # Sector Alarm Homebridge
+
+> Forked and updated dependencies to make it work.
+
 This is a feble attempt to write a homebridge plugin to control a Sector Alarm security system. It is very much alpha, pre-release, boiler plate code and functionality. This might not work with your Sector Alarm system.
 
 I have very limited time to work with this. So any contribution is very much appreciated. 
